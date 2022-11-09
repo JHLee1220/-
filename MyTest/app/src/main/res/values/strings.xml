@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string name="button1">새 화면 열기</string>
+    <string name="button2">돌아가기</string>
+</resources>
